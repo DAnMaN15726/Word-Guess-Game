@@ -1,0 +1,22 @@
+{
+  "name": "word-guess-game",
+  "version": "1.0.0",
+  "description": "Word guessing game using node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DAnMaN15726/Word-Guess-Game.git"
+  },
+  "author": "Daniel D.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DAnMaN15726/Word-Guess-Game/issues"
+  },
+  "homepage": "https://github.com/DAnMaN15726/Word-Guess-Game#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}
